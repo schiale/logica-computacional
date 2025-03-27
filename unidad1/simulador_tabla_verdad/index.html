@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluador de Expresiones Lógicas</title>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="index.css"/>
+</head>
+<body>
+
+<h2>Evaluador de Expresiones Lógicas</h2>
+
+<p>Ingresa una expresión lógica usando <b>P, Q, R</b> y operadores <b>&& (AND), || (OR), ! (NOT)</b>:</p>
+
+<input type="text" id="expression" placeholder="Ejemplo: (P && !Q) || R" oninput="evaluateExpression()">
+
+<table>
+    <tr>
+        <th>P</th> <th>Q</th> <th>R</th> <th>Resultado</th>
+    </tr>
+    <tbody id="truthTable"></tbody>
+</table>
+
+</body>
+</html>
