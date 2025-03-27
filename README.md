@@ -1,68 +1,99 @@
-Lógica Computacional
-Propósito
-El propósito de este módulo es que los y las estudiantes adquieran herramientas para formalizar razonamientos y resolver problemas de base lógico-matemática, reconociendo la relevancia de la lógica proposicional, 
-la lógica de predicados y la lógica digital.
+# 📘 Módulo: Lógica Computacional
 
-Estas competencias son esenciales para el pensamiento algorítmico y la resolución de problemas en el ámbito de la Ciencia de Datos y la Inteligencia Artificial, donde la capacidad para deducir, 
-representar y manipular conocimiento de manera formal incide directamente en la toma de decisiones y la optimización de recursos tecnológicos.
+## 🎯 Propósito
 
-En concordancia con los lineamientos de la Educación Técnico Profesional, la formación en lógica permite desarrollar profesionales capaces de:
+El propósito de este módulo es que los y las estudiantes adquieran herramientas para **formalizar razonamientos** y **resolver problemas lógico-matemáticos**, reconociendo la relevancia de:
 
-Analizar, modelar y verificar argumentos de distinta complejidad.
+- 🧠 Lógica proposicional  
+- 📐 Lógica de predicados  
+- ⚙️ Lógica digital  
 
-Optimizar circuitos lógicos en aplicaciones concretas (por ejemplo, diseño de sistemas digitales).
+Estas competencias son fundamentales en **Ciencia de Datos** e **Inteligencia Artificial**, ya que permiten:
 
-Valorar la lógica como fundamento transversal en programación, electrónica e IA.
+- Deducción formal y representación del conocimiento  
+- Toma de decisiones basadas en lógica  
+- Optimización de recursos tecnológicos  
 
-Expectativas de logro
-Al finalizar este módulo, las/os estudiantes serán capaces de:
+Además, en el marco de la **Educación Técnico Profesional**, este módulo fomenta el desarrollo de capacidades para:
 
-Identificar, analizar e implementar soluciones a problemas lógico-matemáticos, optimizando pasos y recursos.
+✅ Analizar, modelar y verificar argumentos complejos  
+✅ Optimizar circuitos lógicos en sistemas digitales  
+✅ Valorar la lógica como base de la programación, la electrónica y la IA
 
-Modelar y formalizar argumentos en lógica proposicional y de predicados, valorando la pertinencia de cada estrategia de deducción.
+---
 
-Resolver problemas de lógica digital (álgebra de Boole, compuertas NAND, NOR, etc.) y reflexionar sobre su aplicación en ciencia de datos e IA.
+## 🌟 Expectativas de Logro
 
-Justificar la validez de razonamientos mediante pruebas formales, lógica simbólica y tablas de verdad.
+Al finalizar el módulo, las/os estudiantes podrán:
 
-Evaluación
-a) Examen parcial teórico-práctico
-Se realizará un examen parcial que abarcará los principales conceptos del módulo. Contará con una segunda instancia recuperatoria.
+- 🔍 Identificar, analizar e implementar soluciones lógico-matemáticas eficientes  
+- 🧩 Modelar y formalizar argumentos usando lógica proposicional y de predicados  
+- 🧮 Resolver problemas de lógica digital (álgebra de Boole, compuertas NAND, NOR, etc.)  
+- ✅ Justificar razonamientos mediante pruebas formales, lógica simbólica y tablas de verdad
 
-Escala de calificación:
+---
 
-1 a 3: Desaprobado.
+## 📝 Evaluación
 
-4 a 6: Deberá rendir examen final.
+### a) Examen parcial teórico-práctico
 
-7 a 10: Promociona la unidad curricular.
+Se realizará **un examen parcial** con recuperación, que evaluará los contenidos fundamentales del módulo.
 
-b) Proyectos grupales
-Objetivo: Fomentar el trabajo colaborativo y la aplicación de metodologías ágiles.
+📊 **Escala de evaluación:**
 
-Entrega: Repositorio en GitHub + presentación oral o codificada.
+| Nota | Resultado            |
+|------|----------------------|
+| 1–3  | ❌ Desaprobado       |
+| 4–6  | 🟡 Examen final      |
+| 7–10 | ✅ Promociona        |
 
-c) Participación y compromiso
-Se valorará la participación activa, el compromiso con las tareas y el aporte al trabajo grupal en clase.
+---
 
-d) Asistencia
-Se requiere una asistencia mínima del 60%.
+### b) Proyectos grupales
 
-Criterios generales de evaluación institucional (NUEVO RAM - Res. 4196/24)
-Posicionamiento ético-político acorde al enfoque de derechos, cuidados, democracia y convivencia.
+- 🤝 **Objetivo:** Fomentar el trabajo colaborativo y el uso de metodologías ágiles  
+- 💻 **Entrega:** Repositorio en GitHub + presentación oral o técnica
 
-Participación activa, colaborativa y crítica en clase.
+---
 
-Cumplimiento de plazos para entregas, presentaciones y evaluaciones.
+### c) Participación y compromiso
 
-Apropiación progresiva de la alfabetización académica (escrita y oral).
+La participación activa y el compromiso con el grupo y las actividades serán aspectos fundamentales de la evaluación.
 
-Vinculación entre contenidos teóricos y situaciones prácticas concretas.
+---
 
-Producción creativa y fundamentada en bibliografía del espacio (evitando plagios).
+### d) Asistencia
 
-Participación en actividades institucionales y de formación de la carrera.
+📌 Se requiere un mínimo del **60% de asistencia** para aprobar la cursada.
 
-Capacidad de revisión y autovaloración del propio aprendizaje.
+---
 
-Promoción sujeta a cumplimiento de correlatividades establecidas.
+## 🧭 Criterios Generales de Evaluación (NUEVO RAM – Res. 4196/24)
+
+✔️ Enfoque ético-político, democrático y de convivencia  
+✔️ Participación activa, crítica y colaborativa  
+✔️ Cumplimiento de plazos y entregas  
+✔️ Uso progresivo de lenguaje académico  
+✔️ Integración entre teoría y práctica  
+✔️ Producción original, con citas y fundamentos  
+✔️ Participación en actividades institucionales y de carrera  
+✔️ Capacidad de autovaloración y revisión del propio aprendizaje  
+✔️ Acreditación de correlatividades para promoción directa  
+
+---
+
+## 🚀 ¿Qué más podés encontrar en este repositorio?
+
+- Apuntes y material teórico  
+- Actividades prácticas y ejercicios resueltos  
+- Proyectos grupales destacados  
+- Recursos interactivos para practicar lógica
+
+---
+
+## 📚 Bibliografía y recursos sugeridos
+
+(💡 *Se puede agregar esta sección si querés compartir libros, artículos, enlaces o videos útiles.*)
+
+---
+
