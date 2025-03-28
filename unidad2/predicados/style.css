@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  padding: 20px;
+}
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+}
+.usuario {
+  margin-bottom: 10px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+button {
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+#resultado {
+  margin-top: 20px;
+  font-weight: bold;
+}
