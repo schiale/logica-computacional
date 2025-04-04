@@ -4,6 +4,7 @@
 
 El propósito de este módulo es que los y las estudiantes adquieran herramientas para **formalizar razonamientos** y **resolver problemas lógico-matemáticos**, reconociendo la relevancia de:
 
+
 - 🧠 Lógica proposicional  
 - 📐 Lógica de predicados  
 - ⚙️ Lógica digital  
