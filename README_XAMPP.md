@@ -2,6 +2,7 @@
 
 Este instructivo te guiará paso a paso para instalar un **entorno de desarrollo local** utilizando **XAMPP** como servidor y **Visual Studio Code** como editor de código. ¡Todo listo para empezar tus proyectos web con PHP! 💻🚀
 
+
 ---
 
 ## 🧰 ¿Qué vas a instalar?
